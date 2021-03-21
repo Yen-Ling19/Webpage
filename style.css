@@ -1,3 +1,8 @@
+/*@media screen and (max-width:600px){
+	.h1{font-size:100%}
+	.content{width:100%; text-align:center;}
+}*/
+
 body {
 	/*background-color: #ffe4c4;*/
 	background-image:url("https://resource.iyp.tw/static.iyp.tw/39797/products/photooriginal-1790299-jeryF.jpg");
